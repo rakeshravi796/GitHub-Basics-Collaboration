@@ -11,8 +11,9 @@
 <h3> Explanation of the commits </h3>
 
 <ul>
-    <li>Initial Commit : Created a text file called sample.txt and contained the reqiremnts and deliverables for assignment 1</li>
-    <li>delete last line : Deleted the last line in the text file</li>
-    <li>Add last line : Added a last line for the text file</li>
-    <li>Deleted deliverables : Deleted the deliverables part in the text file</li>
+    <li><b>Initial Commit</b> : Created a text file called sample.txt and contained the reqiremnts and deliverables for assignment 1</li>
+    <li><b>delete last line</b> : Deleted the last line in the text file</li>
+    <li><b>Add last line </b>: Added a last line for the text file</li>
+    <li><b>Deleted deliverables</b> : Deleted the deliverables part in the text file</li>
+
 </ul>
